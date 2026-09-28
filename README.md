@@ -250,12 +250,3 @@ predict_churn(total_spent=50, days_inactive=120, order_count=1)
 - **Caching:** a Redis tier above the router to cache execution plans for recurring queries.
 - **Scaling:** PostgreSQL master-replica setup and sharding, plus cluster partitioning for Neo4j and Qdrant.
 
-## Team
-
-- Ilsa Javaid
-- Maira Arshad
-- Noor Fatima
-- Kashaf
-
-**Supervisor:** Mr. Waleed
-**Course:** Advanced Database Management System Lab, UET Lahore
